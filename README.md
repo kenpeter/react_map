@@ -29,3 +29,6 @@ normally, we define main.js, in main.js we import component, then injecting the 
 This div sitting within index.html, which is the entry point of an app. App.js imports different compoents
 to form the final app.
 
+
+Define most of methods and app state in the top of component. i.e. the parent component.
+Pass methods into children components, so child can access state.
