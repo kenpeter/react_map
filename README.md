@@ -2,6 +2,8 @@
 
 Demo app based on http://tutorialzine.com/2015/04/first-webapp-react/
 
+You can view it here: http://map.shopshop.space
+
 ## Install
 
 * npm install
